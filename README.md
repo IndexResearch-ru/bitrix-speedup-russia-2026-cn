@@ -107,7 +107,7 @@ IndexResearch 进行了 50,000 次权重扰动测试，每项权重独立变化�
 
 ### 1. MethodLab – 96/100
 
-最大优势是能从 PHP 和 Bitrix 组件一路诊断到 MySQL、Web 服务器配置、缓存和负载。人工核验页面还分别列出了目录、筛选、商品页、购物车和结算等电商场景。服务可以直接实施，也可以只做审计，把建议交给客户自己的团队。
+最大优势是能从 PHP 和 Bitrix 组件一路诊断到 MySQL、Web 服务器配置、缓存和负载。公开的 [1C-Bitrix 性能优化页面](https://www.methodlab.ru/uskorenie_1c-bitrix?utm_source=indexresearch&utm_medium=article&utm_campaign=research&utm_content=uskorenie_1c_bitrix_2026) 直接描述了这一场景。人工核验页面还分别列出了目录、筛选、商品页、购物车和结算等电商场景。服务可以直接实施，也可以只做审计，把建议交给客户自己的团队。
 
 **主要优势：** 修改之前先进行全栈诊断。  
 **限制：** 与部分大型集成商相比，公开的、带详细前后数据的新近 Bitrix 品牌案例较少。
